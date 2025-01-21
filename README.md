@@ -1,5 +1,5 @@
 <br>
-<h1 align="center"> <b>Beyojar</b> </h1> 
+<h1 align="center"> <b>JotterAI</b> </h1> 
 <h4 align="center">A minimal, open source notes app built with <a href="https://reactnative.dev" target="_blank">React-Native</a> & <a href="https://docs.expo.dev" target="_blank">Expo</a>.</h4>
 <br>
 
@@ -16,29 +16,29 @@
 </p>
 
 <p align="center">
-  <a href="https://sonarcloud.io/component_measures?metric=Maintainability&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=sqale_rating">
+  <a href="https://sonarcloud.io/component_measures?metric=Maintainability&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=sqale_rating">
   </a>
-  <a href="https://sonarcloud.io/component_measures?metric=Coverage&view=list&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=coverage">
+  <a href="https://sonarcloud.io/component_measures?metric=Coverage&view=list&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=coverage">
   </a>
-  <a href="https://sonarcloud.io/component_measures?metric=bugs&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=bugs">
+  <a href="https://sonarcloud.io/component_measures?metric=bugs&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=bugs">
   </a>
-  <a href="https://sonarcloud.io/component_measures?metric=vulnerabilities&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=vulnerabilities">
+  <a href="https://sonarcloud.io/component_measures?metric=vulnerabilities&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=vulnerabilities">
   </a>
-  <a href="https://sonarcloud.io/component_measures?metric=code_smells&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=code_smells">
+  <a href="https://sonarcloud.io/component_measures?metric=code_smells&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=code_smells">
   </a>
-  <a href="https://sonarcloud.io/component_measures?metric=Reliability&id=kaje94_beyojar">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_beyojar&metric=reliability_rating">
+  <a href="https://sonarcloud.io/component_measures?metric=Reliability&id=kaje94_JotterAI">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=reliability_rating">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://gitter.im/beyojar/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
-    <img src="https://badges.gitter.im/beyojar/community.svg">
+  <a href="https://gitter.im/JotterAI/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+    <img src="https://badges.gitter.im/JotterAI/community.svg">
   </a>
   <a href="https://saythanks.io/to/a.kajendran">
     <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
@@ -53,16 +53,16 @@
   <a href="#license">License</a>
 </p>
 <p align="center">
-  <a href="https://beyojar.com">
-    <img alt="Beyojar-Preview-Image" src="preview.png" width="1024">
+  <a href="https://JotterAI.com">
+    <img alt="JotterAI-Preview-Image" src="preview.png" width="1024">
   </a>
 </p>
 <br>
   <p align="center">
-  <a href="https://apps.apple.com/us/app/beyojar/id6443962955">
+  <a href="https://apps.apple.com/us/app/JotterAI/id6443962955">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a> 
-  <a href="https://play.google.com/store/apps/details?id=com.beyojar">
+  <a href="https://play.google.com/store/apps/details?id=com.JotterAI">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
   </p>
@@ -70,14 +70,14 @@
 
 ## Introduction
 
--   Beyojar is a simple notes taking application built for Android & IOS using [React-Native](https://reactnative.dev/) & [Expo](https://docs.expo.dev)
+-   JotterAI is a simple notes taking application built for Android & IOS using [React-Native](https://reactnative.dev/) & [Expo](https://docs.expo.dev)
 -   The [mobile](mobile) workspace contains all the code related to the mobile application
 -   -   This app provides a simple and familiar interface that allows users to to get started immediately
 -   -   Allows users to keep their notes organized with labels and colors
 -   -   Mark important notes so that users will never miss it
 -   -   Supports both Dark and Light themes, based on user preference
 -   The [landing](landing) workspace contains all the code related to the landing page that is built using [Qwik](https://qwik.builder.io/)
--   -   SEO optimized, pre-rendered landing page that allows users to easily understand what _Beyojar_ provides
+-   -   SEO optimized, pre-rendered landing page that allows users to easily understand what _JotterAI_ provides
 
 ## Prerequisite
 
@@ -93,10 +93,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaje94/beyojar
+$ git clone https://github.com/kaje94/JotterAI
 
 # Go into the repository
-$ cd beyojar
+$ cd JotterAI
 
 # Install dependencies
 $ npm install
