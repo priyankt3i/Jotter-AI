@@ -100,8 +100,8 @@ export default component$(() => {
     );
 });
 
-const title = "Beyojar: Privacy Policy";
-const description = "This privacy policy page contains information on how Beyojar handles customer data";
+const title = "JotterAI: Privacy Policy";
+const description = "This privacy policy page contains information on how JotterAI handles customer data";
 
 export const head: DocumentHead = {
     title,

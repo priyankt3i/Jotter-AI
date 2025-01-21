@@ -1,4 +1,4 @@
-# Contributing to Beyojar
+# Contributing to JotterAI
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
@@ -34,10 +34,10 @@ In short, when you submit code changes, your submissions are understood to be un
 
 ## Deployment
 
--   Changes to landing page will be automatically deployed to https://beyojar.com via [AWS Amplify](https://aws.amazon.com/amplify/)
--   Mobile app changes will be manually verified before triggering a build via [expo.dev](https://expo.dev/accounts/kajendran/projects/beyojar)
+-   Changes to landing page will be automatically deployed to https://JotterAI.com via [AWS Amplify](https://aws.amazon.com/amplify/)
+-   Mobile app changes will be manually verified before triggering a build via [expo.dev](https://expo.dev/accounts/kajendran/projects/JotterAI)
 
-## Report bugs using Github's [issues](https://github.com/kaje94/beyojar/issues)
+## Report bugs using Github's [issues](https://github.com/kaje94/JotterAI/issues)
 
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
 

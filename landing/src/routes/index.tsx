@@ -73,19 +73,19 @@ export default component$(() => {
                     </div>
 
                     <span className="text-center font-bold my-20 text-2xl">
-                        <a href="https://github.com/kaje94/beyojar" target="_blank">
+                        <a href="https://github.com/kaje94/JotterAI" target="_blank">
                             <h2 className="duration-300  hover:text-secondary-700 drop-shadow-2xl">
                                 {t("home.github.sourceCode")}
                             </h2>
                         </a>
                         <hr className="my-4 border-secondary-600" />
-                        <a href="https://github.com/kaje94/beyojar/issues/new" target="_blank">
+                        <a href="https://github.com/kaje94/JotterAI/issues/new" target="_blank">
                             <h2 className="duration-300 hover:text-secondary-700 drop-shadow-2xl">
                                 {t("home.github.featureRequest")}
                             </h2>
                         </a>
                         <hr className="my-4 border-secondary-600" />
-                        <a href="https://github.com/kaje94/beyojar/issues/new" target="_blank">
+                        <a href="https://github.com/kaje94/JotterAI/issues/new" target="_blank">
                             <h2 className="duration-300 hover:text-secondary-700 drop-shadow-2xl">
                                 {t("home.github.reportBug")}
                             </h2>
@@ -123,7 +123,7 @@ export default component$(() => {
     );
 });
 
-const title = "Beyojar";
+const title = "JotterAI";
 const description = "An open source notes taking app to organize your life better";
 
 export const head: DocumentHead = {

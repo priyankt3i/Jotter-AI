@@ -1,7 +1,7 @@
 {
-    "name": "beyojar-mobile",
+    "name": "JotterAI-mobile",
     "version": "1.0.0",
-    "description": "Mobile app workspace of Beyojar",
+    "description": "Mobile app workspace of JotterAI",
     "main": "index.ts",
     "scripts": {
         "start": "expo start",
@@ -27,7 +27,7 @@
         "@react-navigation/drawer": "^6.5.0",
         "@react-navigation/native": "^6.0.2",
         "@react-navigation/native-stack": "^6.1.0",
-        "beyojar-mobile": "file:",
+        "JotterAI-mobile": "file:",
         "date-fns": "^2.29.3",
         "expo": "~46.0.9",
         "expo-application": "^4.2.2",

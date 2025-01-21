@@ -11,4 +11,4 @@ Splash\
 
 <br>
 
-Figma file used to generate the app icons can be found [here](https://www.figma.com/file/OhZlw9U6ueCmpyiEYLVyLi/Beyojar-Expo-Icons)
+Figma file used to generate the app icons can be found [here](https://www.figma.com/file/OhZlw9U6ueCmpyiEYLVyLi/JotterAI-Expo-Icons)

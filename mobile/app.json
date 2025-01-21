@@ -1,11 +1,11 @@
 {
     "expo": {
-        "name": "Beyojar",
+        "name": "JotterAI",
         "description": "An open source notes application",
-        "slug": "beyojar",
+        "slug": "JotterAI",
         "owner": "kajendran",
         "version": "1.0.0",
-        "githubUrl": "https://github.com/kaje94/beyojar",
+        "githubUrl": "https://github.com/kaje94/JotterAI",
         "primaryColor": "#7AB17C",
         "orientation": "portrait",
         "icon": "./src/assets/images/icon.png",
@@ -22,7 +22,7 @@
         "assetBundlePatterns": ["**/*"],
         "ios": {
             "supportsTablet": true,
-            "bundleIdentifier": "com.beyojar",
+            "bundleIdentifier": "com.JotterAI",
             "buildNumber": "2"
         },
         "android": {
@@ -30,7 +30,7 @@
                 "foregroundImage": "./src/assets/images/adaptive-icon.png",
                 "backgroundColor": "#7AB17C"
             },
-            "package": "com.beyojar",
+            "package": "com.JotterAI",
             "versionCode": "2"
         },
         "web": {

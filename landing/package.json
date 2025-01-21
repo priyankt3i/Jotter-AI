@@ -1,7 +1,7 @@
 {
-    "name": "beyojar-landing-page",
+    "name": "JotterAI-landing-page",
     "version": "1.0.0",
-    "description": "Landing page to showcase beyojar application",
+    "description": "Landing page to showcase JotterAI application",
     "engines": {
         "node": ">=15.0.0"
     },
@@ -42,6 +42,6 @@
         "vite-tsconfig-paths": "3.5.0"
     },
     "dependencies": {
-        "beyojar-landing-page": "file:"
+        "JotterAI-landing-page": "file:"
     }
 }

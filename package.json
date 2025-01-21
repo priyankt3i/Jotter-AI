@@ -34,7 +34,7 @@
     "*.{css,md,json,yml}": "npm run format-rest"
   },
   "dependencies": {
-    "beyojar": "file:",
+    "JotterAI": "file:",
     "jotterai": "file:",
     "@expo/webpack-config": "^0.17.0"
   }

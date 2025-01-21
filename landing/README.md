@@ -1,5 +1,5 @@
 <br>
-<h1 align="center"> <b>Beyojar</b> : Landing page </h1>
+<h1 align="center"> <b>JotterAI</b> : Landing page </h1>
 
 <p align="center">
   <a href="#introduction">Introduction</a> •

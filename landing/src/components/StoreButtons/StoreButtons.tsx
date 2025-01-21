@@ -5,7 +5,7 @@ export const StoreButtons = component$(() => {
     return (
         <>
             <a
-                href="https://apps.apple.com/us/app/beyojar/id6443962955"
+                href="https://apps.apple.com/us/app/JotterAI/id6443962955"
                 className="w-32 transition duration-300 hover:shadow-lg transform hover:scale-105"
                 target="_blank"
             >
@@ -21,7 +21,7 @@ export const StoreButtons = component$(() => {
                 </picture>
             </a>
             <a
-                href="https://play.google.com/store/apps/details?id=com.beyojar"
+                href="https://play.google.com/store/apps/details?id=com.JotterAI"
                 className="w-32 transition duration-300 hover:shadow-lg transform hover:scale-105"
                 target="_blank"
             >

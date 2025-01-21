@@ -1,6 +1,6 @@
 {
     "translation": {
-        "title": "Beyojar",
+        "title": "JotterAI",
         "common": {
             "confirm": "Are You Sure?",
             "continue": "Continue",
@@ -146,7 +146,7 @@
                 "slides": {
                     "welcome": {
                         "title": "Welcome",
-                        "subTitle": "Welcome to Beyojar, an open source notes taking application that helps you keep your notes organized"
+                        "subTitle": "Welcome to JotterAI, an open source notes taking application that helps you keep your notes organized"
                     },
                     "labels": {
                         "title": "Labels & Colors",
@@ -166,7 +166,7 @@
                 "nextButtonA11yHint": "Navigate to next welcome slide of slide number {{slideNo}} out of {{slideCount}}",
                 "getStartedButtonText": "Get Started",
                 "getStartedButtonA11yLabel": "Get started with the app",
-                "getStartedButtonA11yHint": "Complete the welcome slides and enter into Beyojar application"
+                "getStartedButtonA11yHint": "Complete the welcome slides and enter into JotterAI application"
             }
         }
     }

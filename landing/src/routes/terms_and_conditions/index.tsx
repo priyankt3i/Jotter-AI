@@ -75,8 +75,8 @@ export default component$(() => {
                         <li>
                             <p>
                                 {t("termsAndConditions.section14.byVisiting")}
-                                <a href="https://www.beyojar.com" rel="external nofollow noopener" target="_blank">
-                                    https://www.beyojar.com
+                                <a href="https://www.JotterAI.com" rel="external nofollow noopener" target="_blank">
+                                    https://www.JotterAI.com
                                 </a>
                             </p>
                         </li>
@@ -88,8 +88,8 @@ export default component$(() => {
     );
 });
 
-const title = "Beyojar: Terms & Conditions";
-const description = "The Terms and conditions that needs to be agreed before using Beyojar";
+const title = "JotterAI: Terms & Conditions";
+const description = "The Terms and conditions that needs to be agreed before using JotterAI";
 
 export const head: DocumentHead = {
     title,
