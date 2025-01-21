@@ -1,0 +1,173 @@
+{
+    "translation": {
+        "title": "Beyojar",
+        "common": {
+            "confirm": "Are You Sure?",
+            "continue": "Continue",
+            "cancel": "Cancel",
+            "delete": "Delete",
+            "save": "Save",
+            "select": "Select",
+            "enter": "Enter"
+        },
+        "components": {
+            "searchBar": {
+                "placeholder": "Search your notes",
+                "inputA11yLabel": "Search field input",
+                "inputA11yHint": "Notes will be filtered based on this search input",
+                "backA11yLabel": "Exit search screen",
+                "backA11yHint": "Exit the notes filtering/search view",
+                "searchA11yLabel": "Search notes",
+                "searchA11yHint": "Open search view to filter out your notes",
+                "menuA11yLabel": "Open navigation drawer",
+                "menuA11yHint": "Open navigation drawer and navigate to any of your labels, manage labels screen or settings screen"
+            },
+            "noteDeleteModal": {
+                "message": "Do you really want to delete this note? \nThis action cannot be undone."
+            },
+            "colorPicker": {
+                "title": "Pick the color of your note",
+                "colorItemA11yLabel": "Change color to {{color}}",
+                "colorItemA11yHint": "Change color of the note to {{color}}"
+            },
+            "drawer": {
+                "notes": "Notes",
+                "settings": "Settings",
+                "manageLabels": "Manage Labels",
+                "itemAllyHint": "Navigate to {{item}}"
+            },
+            "cardItem": {
+                "empty": "Empty note",
+                "a11yLabel": "Open Note {{title}}",
+                "allyHint": "Edit note view will be open, when pressed"
+            },
+            "favorite": {
+                "isFavorite": "Is favorite",
+                "isNotFavorite": "Is not favorite",
+                "allyHint": "Favorite selection will be reversed"
+            },
+            "header": {
+                "backButtonA11yLabel": "Back button",
+                "backButtonA11yHint": "Navigate back to the previous screen"
+            },
+            "labelPills": {
+                "labelA11yLabel": "Note label {{label}}",
+                "labelA11yHint": "Manage labels of the note"
+            }
+        },
+        "screens": {
+            "notesList": {
+                "initialNotePrompt": "Get started by adding your first note",
+                "noNotesForSearch": "No matching notes found for the searched keyword",
+                "noNotesFoundForLabel": "No notes found with {{labelName}} label",
+                "noNotesFound": "No notes found",
+                "addButtonA11yLabel": "Add new Note",
+                "addButtonA11yHint": "Open a new screen to add new note details"
+            },
+            "editNote": {
+                "noteDiscarded": "Empty Note Discarded",
+                "noteDeleted": "Note deleted successfully",
+                "editedTime": "Edited {{time}} ago",
+                "titlePlaceholder": "Title",
+                "titleA11yLabel": "Edit Title",
+                "titleA11yHint": "Edit title of the note",
+                "contentPlaceholder": "Start writing",
+                "contentA11yLabel": "Edit content",
+                "contentA11yHint": "Edit content of the note",
+                "openLabelsA11yLabel": "Open Labels screen",
+                "openLabelsA11yHint": "Open Labels screen and select the labels of the note",
+                "openColorModalA11yLabel": "Open color picker",
+                "openColorModalA11yHint": "Open color picker modal for the note",
+                "openDeletesA11yLabel": "Delete note",
+                "openDeleteA11yHint": "Open delete confirm screen for the note"
+            },
+            "labelSelection": {
+                "placeholder": "Enter a label name",
+                "inputA11yLabel": "Search labels input",
+                "inputA11yHint": "Labels will be filtered based on this input",
+                "createNew": "Create ",
+                "noLabelsFound": "Start by adding a new label",
+                "clearSearchA11yLabel": "Clear search",
+                "clearSearchA11yHint": "Clear search input",
+                "createNewLabelA11yLabel": "Create new label",
+                "createNewLabelA11yHint": "Create new label as {{label}} and automatically select it",
+                "labelItemA11yLabel": "Select label {{label}}",
+                "labelItemA11yHint": "Mark {{label}} selected {{selected}} for the note"
+            },
+            "labelManage": {
+                "deleteLabelMessage": "Do you really want to delete this label? \nThis action cannot be undone.",
+                "noLabelsFound": "Start by adding your first label",
+                "labelDeleted": "Label deleted successfully",
+                "inputModal": {
+                    "title": {
+                        "create": "Create Label",
+                        "edit": "Edit Label"
+                    },
+                    "validation": {
+                        "tooShort": "Label name is too short",
+                        "tooLong": "Label name is too long",
+                        "required": "Label name is required",
+                        "duplicateExist": "Duplicate label name"
+                    },
+                    "inputPlaceholder": "Label Name"
+                },
+                "addButtonA11yLabel": "Add new Label",
+                "addButtonA11yHint": "Open a new modal to input new label name",
+                "labelItemA11yLabel": "Edit Label {{label}}",
+                "labelItemA11yHint": "Open edit label modal to edit label {{label}}",
+                "deleteLabelA11yLabel": "Delete label {{label}}",
+                "deleteLabelA11yHint": "Open delete label confirm modal for {{label}}"
+            },
+            "settings": {
+                "theme": {
+                    "title": "Theme",
+                    "modalTitle": "Select App Theme",
+                    "systemDefault": "System Default",
+                    "light": "Light",
+                    "dark": "Dark",
+                    "a11yLabel": "Current theme {{theme}}",
+                    "a11yHint": "Open change theme modal"
+                },
+                "language": {
+                    "title": "Language"
+                },
+                "about": {
+                    "title": "About",
+                    "version": "Version {{version}}"
+                },
+                "deleteAccount": {
+                    "title": "Reset account",
+                    "message": "Do you really want to reset your account? \nThis will delete all your notes/labels and cannot be undone",
+                    "a11yHint": "Open reset account modal",
+                    "successMessage": "Your notes and labels have been deleted successfully"
+                }
+            },
+            "welcome": {
+                "slides": {
+                    "welcome": {
+                        "title": "Welcome",
+                        "subTitle": "Welcome to Beyojar, an open source notes taking application that helps you keep your notes organized"
+                    },
+                    "labels": {
+                        "title": "Labels & Colors",
+                        "subTitle": "Use labels and colors to categorize your notes so that you can find them easily"
+                    },
+                    "favorite": {
+                        "title": "Favorite",
+                        "subTitle": "Mark important notes, so that you don't loose track of them"
+                    },
+                    "themes": {
+                        "title": "Themes",
+                        "subTitle": "Toggle between light and dark themes, based on your preference"
+                    }
+                },
+                "nextButtonText": "Next",
+                "nextButtonA11yLabel": "Go to next slide",
+                "nextButtonA11yHint": "Navigate to next welcome slide of slide number {{slideNo}} out of {{slideCount}}",
+                "getStartedButtonText": "Get Started",
+                "getStartedButtonA11yLabel": "Get started with the app",
+                "getStartedButtonA11yHint": "Complete the welcome slides and enter into Beyojar application"
+            }
+        }
+    }
+}
