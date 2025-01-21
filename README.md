@@ -16,27 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sonarcloud.io/component_measures?metric=Maintainability&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=sqale_rating">
-  </a>
-  <a href="https://sonarcloud.io/component_measures?metric=Coverage&view=list&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=coverage">
-  </a>
-  <a href="https://sonarcloud.io/component_measures?metric=bugs&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=bugs">
-  </a>
-  <a href="https://sonarcloud.io/component_measures?metric=vulnerabilities&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=vulnerabilities">
-  </a>
-  <a href="https://sonarcloud.io/component_measures?metric=code_smells&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=code_smells">
-  </a>
-  <a href="https://sonarcloud.io/component_measures?metric=Reliability&id=kaje94_JotterAI">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=kaje94_JotterAI&metric=reliability_rating">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://gitter.im/JotterAI/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
     <img src="https://badges.gitter.im/JotterAI/community.svg">
   </a>
